@@ -6,3 +6,8 @@
 
 ## PROTOTYPE IN HTML
 * https://pridecelo.vercel.app/
+
+
+
+https://user-images.githubusercontent.com/70655824/179228494-a66edccb-f227-41c3-b9c4-57a7ab66c885.mp4
+
